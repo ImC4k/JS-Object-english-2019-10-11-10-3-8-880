@@ -1,5 +1,6 @@
 // Task 1
 var user = {};
+user.name = 'John'
 user.surname = 'Mike';
 user.surname = 'Peter';
 delete user.surname;
